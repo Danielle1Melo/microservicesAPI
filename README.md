@@ -1,8 +1,0 @@
-# MS-USERS
-
-CRUD
-
-- C: CREATE
-- R: READ
-- U: UPDATE
-- D: DELETE
